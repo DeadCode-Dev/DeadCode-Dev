@@ -29,4 +29,4 @@
 [![Personal Website](https://img.shields.io/badge/Website-Your%20Website%20Name-blueviolet?style=for-the-badge)](https://your-personal-website.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%40your-twitter-profile-blue?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter-profile)
 ### Discord
-[![Discord](https://img.shields.io/badge/Discord-%40TONY--DeadCode-7289DA?logo=discord&style=for-the-badge)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord]([https://img.shields.io/badge/Discord-%40TONY--DeadCode-7289DA?logo=discord&style=for-the-badge](https://discord.c99.nl/widget/theme-3/883389450388901949.png)https://discord.c99.nl/widget/theme-3/883389450388901949.png)](https://discord.com/users/883389450388901949)

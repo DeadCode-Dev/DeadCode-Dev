@@ -1,4 +1,4 @@
-# Hi there, I'm Tony Youssef 👋
+# Hi there, I'm DeadCode 👋
 ## aka TONY-DeadCode
 
 ### Languages and Libraries
@@ -16,17 +16,10 @@
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONY-DeadCode&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-### Dynamic Images
-![Dynamic Image Example](https://your-dynamic-image-url.com) <!-- Replace this with your dynamic image URL -->
-
 ### Projects
 - [Project 1](https://github.com/TONY-DeadCode/project-1) - Short description here.
 - [Project 2](https://github.com/TONY-DeadCode/project-2) - Short description here.
 <!-- Add more projects -->
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Personal Website](https://img.shields.io/badge/Website-Your%20Website%20Name-blueviolet?style=for-the-badge)](https://your-personal-website.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40your-twitter-profile-blue?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter-profile)
 ### Discord
-[![Discord]((https://discord.c99.nl/widget/theme-3/883389450388901949.png)https://discord.c99.nl/widget/theme-3/883389450388901949.png)](https://discord.com/users/883389450388901949)
+[![Discord](https://discord.c99.nl/widget/theme-3/883389450388901949.png)](https://discord.com/users/883389450388901949)

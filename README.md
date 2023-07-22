@@ -25,9 +25,9 @@
 <!-- Add more projects -->
 
 ### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-[Personal Website](https://your-personal-website.com)
-[Twitter](https://twitter.com/your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Personal Website](https://img.shields.io/badge/Website-Your%20Website%20Name-blueviolet?style=for-the-badge)](https://your-personal-website.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40your-twitter-profile-blue?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter-profile)
 
 ### GitHub Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TONY-DeadCode&theme=rogue)

@@ -28,6 +28,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Personal Website](https://img.shields.io/badge/Website-Your%20Website%20Name-blueviolet?style=for-the-badge)](https://your-personal-website.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%40your-twitter-profile-blue?logo=twitter&style=for-the-badge)](https://twitter.com/your-twitter-profile)
-
-### GitHub Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TONY-DeadCode&theme=rogue)
+### Discord
+[![Discord](https://img.shields.io/badge/Discord-%40TONY--DeadCode-7289DA?logo=discord&style=for-the-badge)](https://discord.com/users/YOUR_DISCORD_ID)

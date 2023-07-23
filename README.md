@@ -1,5 +1,4 @@
 # Hi there, I'm DeadCode 👋
-## aka TONY-DeadCode
 
 ### Languages and Libraries
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)

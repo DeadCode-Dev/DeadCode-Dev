@@ -16,7 +16,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TONY-DeadCode&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TONY-DeadCode&repo=TONY-DeadCode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TONY-DeadCode&repo=DeadJson&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Add more projects -->
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONY-DeadCode&hide_progress=true&theme=radical)

@@ -1,24 +1,63 @@
-# Hi there, I'm DeadCode 👋
+<!-- Animated Profile README for DeadCode-Dev -->
 
-### Languages and Libraries
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+DeadCode-Dev+%F0%9F%91%8B;Full-Stack+Web+Developer+%26+Student;Building+the+future+one+repo+at+a+time!" alt="Typing SVG" />
+</h1>
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeadCode-Dev&show_icons=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <b>High School Student & Full-Stack Software Engineer</b> <br>
+  <a href="mailto:tonyyoussef243@gmail.com">tonyyoussef243@gmail.com</a> | 
+  <a href="https://leetcode.com/u/deadcode-dev/">LeetCode</a> | 
+  Discord: <code>deadcode_</code> <br>
+  <i>Personal website: Coming soon!</i>
+</p>
 
-### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeadCode-Dev&repo=fashion-ecommerce&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Add more projects -->
-### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadCode-Dev&hide_progress=true&theme=radical)
-### Discord
-[![Discord](https://discord.c99.nl/widget/theme-3/883389450388901949.png)](https://discord.com/users/883389450388901949)
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=32C7FF&width=435&lines=About+Me+%F0%9F%92%BB" alt="About Me Animation" />
+</h2>
+
+- 🚀 High school student passionate about software engineering and web development
+- 🛠️ Skilled in **Node.js**, **React**, **MongoDB**, **SQL**, and more
+- 🌍 Building both personal and professional projects
+- 📬 Always open to collaboration and new opportunities
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=32C7FF&width=435&lines=Tech+Stack+%F0%9F%92%BB" alt="Tech Stack Animation" />
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,postgres,sqlite,html,css,tailwind,git,github,vscode" alt="My Skills" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=32C7FF&width=435&lines=GitHub+Stats+%F0%9F%93%8A" alt="GitHub Stats Animation" />
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeadCode-Dev&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadCode-Dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=DeadCode-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=32C7FF&width=435&lines=Featured+Projects+%F0%9F%92%BB" alt="Projects Animation" />
+</h2>
+
+- **Check out my pinned repos to see what I’m building!**
+- Personal and professional projects covering full-stack, APIs, and more
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Let's+connect+and+create+something+awesome+%F0%9F%92%A1" alt="Footer Animation" />
+</p>

@@ -16,7 +16,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeadCode-Dev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeadCode-Dev&repo=DeadJson&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeadCode-Dev&repo=fashion-ecommerce&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Add more projects -->
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadCode-Dev&hide_progress=true&theme=radical)

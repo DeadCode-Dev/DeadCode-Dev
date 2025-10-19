@@ -9,7 +9,7 @@
   <a href="mailto:tonyyoussef243@gmail.com">tonyyoussef243@gmail.com</a> | 
   <a href="https://leetcode.com/u/deadcode-dev/">LeetCode</a> | 
   Discord: <code>deadcode_</code> <br>
-  <i>Personal website: Coming soon!</i>
+  <i>Personal website: <a href="https://antonious.me/">Antonios</a></i>
 </p>
 
 ---
